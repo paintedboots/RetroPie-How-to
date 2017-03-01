@@ -10,6 +10,7 @@ ifconfig - will tell you what is connected (Internet/LAN)
 sudo lsusb - will list all usb connections
 
 sudo raspi-config
+
 sudo apt-up update
 sudo apt-get dist-upgrade #upgrades OS?
 sudo apt-get ugrade
